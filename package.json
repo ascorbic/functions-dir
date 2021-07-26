@@ -1,0 +1,10 @@
+{
+  "name": "functions-dir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Matt Kane <matt.kane@netlify.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "fs-extra": "^10.0.0"
+  }
+}
